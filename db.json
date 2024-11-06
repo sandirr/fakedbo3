@@ -1,191 +1,299 @@
 {
     "transfer-info": [
       {
-          "id": 1823,
-          "salesman_source": 2040,
-          "salesman_destination": 5346,
-          "number_of_stores": 2,
-          "created_by": 102,
-          "new_tsh_id": 1823,
-          "transfer_date": "30-October-2024 10:30:00 - Wednesday",
-          "description": "dummy transfer data 1",
-          "salesman_source_name": "Agus Salesman",
-          "email_agent": "agus.manager@dbo.id",
-          "salesman_destination_name": "Putra Hartono",
-          "store_list": [
-              "1811009570, Sumber Makmur, UD",
-              "1811009571, Jaya Sentosa, UD"
-          ],
-          "created_at": "2024-10-30 10:30:00 +0700 WIB"
+        "id": 1823,
+        "salesman_source": 2040,
+        "salesman_destination": 5346,
+        "number_of_stores": 2,
+        "created_by": 102,
+        "new_tsh_id": 1823,
+        "transfer_date": "30-October-2024 10:30:00 - Wednesday",
+        "description": "dummy transfer data 1",
+        "salesman_source_name": "Agus Salesman",
+        "email_agent": "agus.manager@dbo.id",
+        "salesman_destination_name": "Putra Hartono",
+        "store_list": [
+          {
+            "id": "1811009570",
+            "name": "Sumber Makmur",
+            "type": "UD"
+          },
+          {
+            "id": "1811009571",
+            "name": "Jaya Sentosa",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-10-30 10:30:00 +0700 WIB"
       },
       {
-          "id": 1824,
-          "salesman_source": 2041,
-          "salesman_destination": 5347,
-          "number_of_stores": 4,
-          "created_by": 103,
-          "new_tsh_id": 1824,
-          "transfer_date": "31-October-2024 14:45:15 - Thursday",
-          "description": "dummy transfer data 2",
-          "salesman_source_name": "Bayu Salesman",
-          "email_agent": "bayu.manager@dbo.id",
-          "salesman_destination_name": "Hendra Pratama",
-          "store_list": [
-              "1811009572, Citra Abadi, TK",
-              "1811009573, Gemilang, UD",
-              "1811009574, Toko Sukses, TK",
-              "1811009575, Mulia Sejahtera, UD"
-          ],
-          "created_at": "2024-10-31 14:45:15 +0700 WIB"
+        "id": 1824,
+        "salesman_source": 2041,
+        "salesman_destination": 5347,
+        "number_of_stores": 4,
+        "created_by": 103,
+        "new_tsh_id": 1824,
+        "transfer_date": "31-October-2024 14:45:15 - Thursday",
+        "description": "dummy transfer data 2",
+        "salesman_source_name": "Bayu Salesman",
+        "email_agent": "bayu.manager@dbo.id",
+        "salesman_destination_name": "Hendra Pratama",
+        "store_list": [
+          {
+            "id": "1811009572",
+            "name": "Citra Abadi",
+            "type": "TK"
+          },
+          {
+            "id": "1811009573",
+            "name": "Gemilang",
+            "type": "UD"
+          },
+          {
+            "id": "1811009574",
+            "name": "Toko Sukses",
+            "type": "TK"
+          },
+          {
+            "id": "1811009575",
+            "name": "Mulia Sejahtera",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-10-31 14:45:15 +0700 WIB"
       },
       {
-          "id": 1825,
-          "salesman_source": 2042,
-          "salesman_destination": 5348,
-          "number_of_stores": 3,
-          "created_by": 104,
-          "new_tsh_id": 1825,
-          "transfer_date": "1-November-2024 09:10:20 - Friday",
-          "description": "dummy transfer data 3",
-          "salesman_source_name": "Citra Salesman",
-          "email_agent": "citra.manager@dbo.id",
-          "salesman_destination_name": "Dewi Ambarwati",
-          "store_list": [
-              "1811009576, Laris Manis, UD",
-              "1811009577, Sentosa Jaya, TK",
-              "1811009578, Sejahtera Bersama, UD"
-          ],
-          "created_at": "2024-11-01 09:10:20 +0700 WIB"
+        "id": 1825,
+        "salesman_source": 2042,
+        "salesman_destination": 5348,
+        "number_of_stores": 3,
+        "created_by": 104,
+        "new_tsh_id": 1825,
+        "transfer_date": "1-November-2024 09:10:20 - Friday",
+        "description": "dummy transfer data 3",
+        "salesman_source_name": "Citra Salesman",
+        "email_agent": "citra.manager@dbo.id",
+        "salesman_destination_name": "Dewi Ambarwati",
+        "store_list": [
+          {
+            "id": "1811009576",
+            "name": "Laris Manis",
+            "type": "UD"
+          },
+          {
+            "id": "1811009577",
+            "name": "Sentosa Jaya",
+            "type": "TK"
+          },
+          {
+            "id": "1811009578",
+            "name": "Sejahtera Bersama",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-01 09:10:20 +0700 WIB"
       },
       {
-          "id": 1826,
-          "salesman_source": 2043,
-          "salesman_destination": 5349,
-          "number_of_stores": 1,
-          "created_by": 105,
-          "new_tsh_id": 1826,
-          "transfer_date": "2-November-2024 15:25:30 - Saturday",
-          "description": "dummy transfer data 4",
-          "salesman_source_name": "Dewi Salesman",
-          "email_agent": "dewi.manager@dbo.id",
-          "salesman_destination_name": "Gunawan Surya",
-          "store_list": [
-              "1811009579, Makmur Abadi, UD"
-          ],
-          "created_at": "2024-11-02 15:25:30 +0700 WIB"
+        "id": 1826,
+        "salesman_source": 2043,
+        "salesman_destination": 5349,
+        "number_of_stores": 1,
+        "created_by": 105,
+        "new_tsh_id": 1826,
+        "transfer_date": "2-November-2024 15:25:30 - Saturday",
+        "description": "dummy transfer data 4",
+        "salesman_source_name": "Dewi Salesman",
+        "email_agent": "dewi.manager@dbo.id",
+        "salesman_destination_name": "Gunawan Surya",
+        "store_list": [
+          {
+            "id": "1811009579",
+            "name": "Makmur Abadi",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-02 15:25:30 +0700 WIB"
       },
       {
-          "id": 1827,
-          "salesman_source": 2044,
-          "salesman_destination": 5350,
-          "number_of_stores": 5,
-          "created_by": 106,
-          "new_tsh_id": 1827,
-          "transfer_date": "3-November-2024 11:40:45 - Sunday",
-          "description": "dummy transfer data 5",
-          "salesman_source_name": "Eka Salesman",
-          "email_agent": "eka.manager@dbo.id",
-          "salesman_destination_name": "Rina Rahayu",
-          "store_list": [
-              "1811009580, Sukses Bersama, UD",
-              "1811009581, Subur Makmur, TK",
-              "1811009582, Karya Mandiri, UD",
-              "1811009583, Sejahtera Jaya, TK",
-              "1811009584, Mulya Sari, UD"
-          ],
-          "created_at": "2024-11-03 11:40:45 +0700 WIB"
+        "id": 1827,
+        "salesman_source": 2044,
+        "salesman_destination": 5350,
+        "number_of_stores": 5,
+        "created_by": 106,
+        "new_tsh_id": 1827,
+        "transfer_date": "3-November-2024 11:40:45 - Sunday",
+        "description": "dummy transfer data 5",
+        "salesman_source_name": "Eka Salesman",
+        "email_agent": "eka.manager@dbo.id",
+        "salesman_destination_name": "Rina Rahayu",
+        "store_list": [
+          {
+            "id": "1811009580",
+            "name": "Sukses Bersama",
+            "type": "UD"
+          },
+          {
+            "id": "1811009581",
+            "name": "Subur Makmur",
+            "type": "TK"
+          },
+          {
+            "id": "1811009582",
+            "name": "Karya Mandiri",
+            "type": "UD"
+          },
+          {
+            "id": "1811009583",
+            "name": "Sejahtera Jaya",
+            "type": "TK"
+          },
+          {
+            "id": "1811009584",
+            "name": "Mulya Sari",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-03 11:40:45 +0700 WIB"
       },
       {
-          "id": 1828,
-          "salesman_source": 2045,
-          "salesman_destination": 5351,
-          "number_of_stores": 2,
-          "created_by": 107,
-          "new_tsh_id": 1828,
-          "transfer_date": "4-November-2024 08:50:00 - Monday",
-          "description": "dummy transfer data 6",
-          "salesman_source_name": "Fajar Salesman",
-          "email_agent": "fajar.manager@dbo.id",
-          "salesman_destination_name": "Yuni Rahmadani",
-          "store_list": [
-              "1811009585, Toko Sumber Makmur, TK",
-              "1811009586, Bahagia Abadi, UD"
-          ],
-          "created_at": "2024-11-04 08:50:00 +0700 WIB"
+        "id": 1828,
+        "salesman_source": 2045,
+        "salesman_destination": 5351,
+        "number_of_stores": 2,
+        "created_by": 107,
+        "new_tsh_id": 1828,
+        "transfer_date": "4-November-2024 08:50:00 - Monday",
+        "description": "dummy transfer data 6",
+        "salesman_source_name": "Fajar Salesman",
+        "email_agent": "fajar.manager@dbo.id",
+        "salesman_destination_name": "Yuni Rahmadani",
+        "store_list": [
+          {
+            "id": "1811009585",
+            "name": "Toko Sumber Makmur",
+            "type": "TK"
+          },
+          {
+            "id": "1811009586",
+            "name": "Bahagia Abadi",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-04 08:50:00 +0700 WIB"
       },
       {
-          "id": 1829,
-          "salesman_source": 2046,
-          "salesman_destination": 5352,
-          "number_of_stores": 3,
-          "created_by": 108,
-          "new_tsh_id": 1829,
-          "transfer_date": "5-November-2024 13:20:15 - Tuesday",
-          "description": "dummy transfer data 7",
-          "salesman_source_name": "Gilang Salesman",
-          "email_agent": "gilang.manager@dbo.id",
-          "salesman_destination_name": "Sari Dewi",
-          "store_list": [
-              "1811009587, Maju Jaya, UD",
-              "1811009588, Lestari, TK",
-              "1811009589, Berkah Sejahtera, UD"
-          ],
-          "created_at": "2024-11-05 13:20:15 +0700 WIB"
+        "id": 1829,
+        "salesman_source": 2046,
+        "salesman_destination": 5352,
+        "number_of_stores": 3,
+        "created_by": 108,
+        "new_tsh_id": 1829,
+        "transfer_date": "5-November-2024 13:20:15 - Tuesday",
+        "description": "dummy transfer data 7",
+        "salesman_source_name": "Gilang Salesman",
+        "email_agent": "gilang.manager@dbo.id",
+        "salesman_destination_name": "Sari Dewi",
+        "store_list": [
+          {
+            "id": "1811009587",
+            "name": "Maju Jaya",
+            "type": "UD"
+          },
+          {
+            "id": "1811009588",
+            "name": "Lestari",
+            "type": "TK"
+          },
+          {
+            "id": "1811009589",
+            "name": "Berkah Sejahtera",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-05 13:20:15 +0700 WIB"
       },
       {
-          "id": 1830,
-          "salesman_source": 2047,
-          "salesman_destination": 5353,
-          "number_of_stores": 4,
-          "created_by": 109,
-          "new_tsh_id": 1830,
-          "transfer_date": "6-November-2024 16:55:30 - Wednesday",
-          "description": "dummy transfer data 8",
-          "salesman_source_name": "Hendra Salesman",
-          "email_agent": "hendra.manager@dbo.id",
-          "salesman_destination_name": "Lina Suryani",
-          "store_list": [
-              "1811009590, Toko Bahagia, TK",
-              "1811009591, Mulya Sentosa, UD",
-              "1811009592, Lestari Abadi, TK",
-              "1811009593, Amanah Jaya, UD"
-          ],
-          "created_at": "2024-11-06 16:55:30 +0700 WIB"
+        "id": 1830,
+        "salesman_source": 2047,
+        "salesman_destination": 5353,
+        "number_of_stores": 4,
+        "created_by": 109,
+        "new_tsh_id": 1830,
+        "transfer_date": "6-November-2024 16:55:30 - Wednesday",
+        "description": "dummy transfer data 8",
+        "salesman_source_name": "Hendra Salesman",
+        "email_agent": "hendra.manager@dbo.id",
+        "salesman_destination_name": "Lina Suryani",
+        "store_list": [
+          {
+            "id": "1811009590",
+            "name": "Toko Bahagia",
+            "type": "TK"
+          },
+          {
+            "id": "1811009591",
+            "name": "Mulya Sentosa",
+            "type": "UD"
+          },
+          {
+            "id": "1811009592",
+            "name": "Lestari Abadi",
+            "type": "TK"
+          },
+          {
+            "id": "1811009593",
+            "name": "Amanah Jaya",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-06 16:55:30 +0700 WIB"
       },
       {
-          "id": 1831,
-          "salesman_source": 2048,
-          "salesman_destination": 5354,
-          "number_of_stores": 2,
-          "created_by": 110,
-          "new_tsh_id": 1831,
-          "transfer_date": "7-November-2024 12:15:45 - Thursday",
-          "description": "dummy transfer data 9",
-          "salesman_source_name": "Intan Salesman",
-          "email_agent": "intan.manager@dbo.id",
-          "salesman_destination_name": "Rahmat Widodo",
-          "store_list": [
-              "1811009594, Toko Sukses, TK",
-              "1811009595, Maju Bersama, UD"
-          ],
-          "created_at": "2024-11-07 12:15:45 +0700 WIB"
+        "id": 1831,
+        "salesman_source": 2048,
+        "salesman_destination": 5354,
+        "number_of_stores": 2,
+        "created_by": 110,
+        "new_tsh_id": 1831,
+        "transfer_date": "7-November-2024 12:15:45 - Thursday",
+        "description": "dummy transfer data 9",
+        "salesman_source_name": "Intan Salesman",
+        "email_agent": "intan.manager@dbo.id",
+        "salesman_destination_name": "Rahmat Widodo",
+        "store_list": [
+          {
+            "id": "1811009594",
+            "name": "Toko Sukses",
+            "type": "TK"
+          },
+          {
+            "id": "1811009595",
+            "name": "Maju Bersama",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-07 12:15:45 +0700 WIB"
       },
       {
-          "id": 1832,
-          "salesman_source": 2049,
-          "salesman_destination": 5355,
-          "number_of_stores": 1,
-          "created_by": 111,
-          "new_tsh_id": 1832,
-          "transfer_date": "8-November-2024 09:45:30 - Friday",
-          "description": "dummy transfer data 10",
-          "salesman_source_name": "Joko Salesman",
-          "email_agent": "joko.manager@dbo.id",
-          "salesman_destination_name": "Widya Santoso",
-          "store_list": [
-              "1811009596, Jaya Mandiri, UD"
-          ],
-          "created_at": "2024-11-08 09:45:30 +0700 WIB"
+        "id": 1832,
+        "salesman_source": 2049,
+        "salesman_destination": 5355,
+        "number_of_stores": 1,
+        "created_by": 111,
+        "new_tsh_id": 1832,
+        "transfer_date": "8-November-2024 09:45:30 - Friday",
+        "description": "dummy transfer data 10",
+        "salesman_source_name": "Joko Salesman",
+        "email_agent": "joko.manager@dbo.id",
+        "salesman_destination_name": "Widya Santoso",
+        "store_list": [
+          {
+            "id": "1811009596",
+            "name": "Jaya Mandiri",
+            "type": "UD"
+          }
+        ],
+        "created_at": "2024-11-08 09:45:30 +0700 WIB"
       }
-  ]
-}
+    ]
+  }
