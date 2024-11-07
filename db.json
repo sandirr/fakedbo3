@@ -180,5 +180,89 @@
           "available_big": "-",
           "unit_big_displayed": "-"
       }
+    ],
+    "stock-peritem": [
+      {
+        "agent_id": 49,
+        "agent_name": "PT. Berkat Chandra Anugerah",
+        "brand_id": 1,
+        "brand_name": "Rucika",
+        "category_id": 755,
+        "category_name": "Valve Socket (AW)",
+        "product_master_code": "20014106022000",
+        "product_master_name": "RUCIKA FITTING VALVE SOCKET AW 1/2",
+        "product_unit": {
+          "small": "pcs",
+          "medium": "box",
+          "big": "box"
+        },
+        "unit_display": "box",
+        "transaction_reference": "DA0049240215H4SDHF",
+        "transaction_name": "DELIVERY_ORDER",
+        "small_in_medium_measurement": 450,
+        "medium_in_big_measurement": 1,
+        "mutations": {
+          "begin_qty": 107,
+          "end_qty": 106,
+          "in_qty": 0,
+          "out_qty": 1
+        },
+        "ref_date": "15-Feb-2024",
+        "created_date": "15-Feb-2024 09:26:42",
+        "product_data": {
+          "product_master_id": 254,
+          "product_code_master": "20014106022000",
+          "product_name_master": "RUCIKA FITTING VALVE SOCKET AW 1/2",
+          "product_code_alias": "",
+          "product_name_alias": "",
+          "nett_weight": 0.02,
+          "nett_unit": "kg",
+          "medium_big_amount": 1,
+          "small_medium_amount": 450,
+          "last_category_id": 755,
+          "last_category_name": "Valve Socket (AW)"
+        }
+      },
+      {
+        "agent_id": 49,
+        "agent_name": "PT. Berkat Chandra Anugerah",
+        "brand_id": 1,
+        "brand_name": "Rucika",
+        "category_id": 748,
+        "category_name": "Tee (AW)",
+        "product_master_code": "20014104022000",
+        "product_master_name": "RUCIKA FITTING JIS TEE AW 1/2",
+        "product_unit": {
+          "small": "pcs",
+          "medium": "box",
+          "big": "box"
+        },
+        "unit_display": "box",
+        "transaction_reference": "DA0049240215H4SDHF",
+        "transaction_name": "DELIVERY_ORDER",
+        "small_in_medium_measurement": 150,
+        "medium_in_big_measurement": 1,
+        "mutations": {
+          "begin_qty": 1478,
+          "end_qty": 1476,
+          "in_qty": 0,
+          "out_qty": 2
+        },
+        "ref_date": "15-Feb-2024",
+        "created_date": "15-Feb-2024 09:26:42",
+        "product_data": {
+          "product_master_id": 88,
+          "product_code_master": "20014104022000",
+          "product_name_master": "RUCIKA FITTING JIS TEE AW 1/2",
+          "product_code_alias": "",
+          "product_name_alias": "",
+          "nett_weight": 0.05,
+          "nett_unit": "kg",
+          "medium_big_amount": 1,
+          "small_medium_amount": 150,
+          "last_category_id": 748,
+          "last_category_name": "Tee (AW)"
+        }
+      }
     ]
   }
